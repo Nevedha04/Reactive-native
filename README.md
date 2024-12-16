@@ -1,2 +1,2 @@
 # Reactive-native
-kitty image
+Android application on Kitty cat
